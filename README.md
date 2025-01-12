@@ -57,7 +57,6 @@ Berikut adalah tutorial yang sudah disempurnakan dengan tambahan informasi menge
 ---
 
 **Catatan:**
-- saya kasih 1 game def jam for ny untuk kalian coba,ekstrak lalu pindahkan file game Def Jam - Fight for NY.iso tersebut ke forder my_Game dan pindai ulang game nanti akan muncul dan siap untuk di mainkan.
 - Pastikan Anda memiliki salinan game PS2 secara sah untuk digunakan dengan emulator ini.\
 - BIOS PS2 yang sah hanya dapat diperoleh dari perangkat PS2 asli Anda. Jangan mengunduh BIOS dari sumber yang tidak sah untuk menghindari pelanggaran hak cipta.
 
